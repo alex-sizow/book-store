@@ -1,5 +1,5 @@
 <template>
-	<NuxtLayout>dgf</NuxtLayout>
+	<NuxtLayout><NuxtPage /></NuxtLayout>
 </template>
 
 <style lang="scss">
